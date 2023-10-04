@@ -1,0 +1,42 @@
+body{
+  margin: 0;
+    background-color: rgb(186, 235, 235);
+ }
+ img{
+ 
+       height:180px;
+   }
+   h1{
+    color: red;
+    font-size: 30px;
+   }
+   h1:hover{
+    color: red;
+    font-size: 33px;
+   }
+   h2{
+     color: rgb(208, 255, 0);
+   }
+   h3{
+    color: rgb(215, 253, 3);
+   }
+   strong{
+    color: rgb(252, 8, 8);
+   }
+
+    
+    
+
+
+
+   hr{
+  
+    background-color: rgb(96, 234, 252);
+    width: 5%;
+    border-style: dotted none none;
+    border-width: 5px;  
+ }
+ 
+ .logo{
+  box-shadow: inset;
+ }
